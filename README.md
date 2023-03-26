@@ -89,6 +89,7 @@ RTL realization
 
 
 Waveform
+
 ![wave](https://user-images.githubusercontent.com/120367796/227781420-986e1835-2c37-41d9-a40d-0aa629c80051.png)
 
 
