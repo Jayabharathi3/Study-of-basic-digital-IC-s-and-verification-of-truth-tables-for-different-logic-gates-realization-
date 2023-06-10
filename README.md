@@ -77,18 +77,18 @@ xnor(y7,a,b);
 endmodule
 ```
 */
-Logic symbol 
+## Logic symbol 
 ![logic gate](https://user-images.githubusercontent.com/120367796/227781472-beb3b40a-234e-4c2a-8a2b-0257c64ded7a.png)
 
 
-Truth Table
+## Truth Table
 ![truth table](https://user-images.githubusercontent.com/120367796/227781348-4201c270-e7c2-4dc9-a21f-0d19fd7b04d4.png)
 
-RTL realization
+## RTL realization
 ![diagram](https://user-images.githubusercontent.com/120367796/227781491-14fdc021-c730-498a-9808-5917974b8901.png)
 
 
-Waveform
+## Waveform
 
 ![wave](https://user-images.githubusercontent.com/120367796/227781420-986e1835-2c37-41d9-a40d-0aa629c80051.png)
 
